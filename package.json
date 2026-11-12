@@ -1,0 +1,18 @@
+{
+  "name": "@zementechnologies/git-sandbox",
+  "version": "1.0.0",
+  "description": "Interactive template sandbox repository for practicing Git workflows and opening your first Pull Request at Zemen Technologies.",
+  "main": "scripts/validate-contributors.js",
+  "scripts": {
+    "test": "node scripts/validate-contributors.js"
+  },
+  "keywords": [
+    "git",
+    "sandbox",
+    "practice",
+    "zemen-technologies",
+    "education"
+  ],
+  "author": "Zemen Technologies PLC",
+  "license": "MIT"
+}
