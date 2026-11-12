@@ -11,3 +11,4 @@ Add contributor profile for [Your Name] to the Zemen Technologies Sandbox direct
 - [ ] All required JSON fields are present and valid.
 - [ ] I ran `npm test` locally and all checks passed.
 - [ ] My commit message follows Conventional Commits: `feat(contributors): add <my-name> profile`.
+

@@ -106,6 +106,15 @@ Need a refresher on Git concepts, branches, or conventional commit rules?
 
 ---
 
+## Facilitation & Questions
+
+If you run into issues, have questions about Git workflows, or need your sandbox PR reviewed and merged, contact the facilitators:
+- **Latera Tilahun** — [@Laterat](https://github.com/Laterat)
+- **Nahim** — [@nahim13](https://github.com/nahim13)
+
+---
+
 ## License
 
 Copyright (c) 2026 Zemen Technologies PLC. Licensed under the MIT License.
+

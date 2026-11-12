@@ -17,3 +17,4 @@ This directory contains profile JSON files for team members and trainees who com
    npm test
    ```
 4. Commit, push, and submit your Pull Request!
+

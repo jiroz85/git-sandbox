@@ -65,3 +65,4 @@ if (hasErrors) {
 
 console.log(`\n[Result] All ${files.length} contributor profile(s) validated successfully! Ready for merge.`);
 process.exit(0);
+
